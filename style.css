@@ -1,0 +1,25 @@
+.channel {
+	display:inline-block;
+	
+}
+ul {
+	list-style:none;
+}
+div, ul {
+	boder: solid 1px purple;
+}
+.nav-pills > li.active > a{
+	background-color: #aa6cef;	
+}
+.nav-pills > li.active > a:hover {
+	background-color: #cb9df7;
+}
+
+/* to-do styling
+1. pills width @screen width
+2. margins & paddings 
+3. list items align & title/info align with pic
+4. background, hover, visited & colors
+5. icons? on pills & items
+6. fonts
+*/
